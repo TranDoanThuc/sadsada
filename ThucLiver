@@ -1,0 +1,218 @@
+# sadsada  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title> facebook </title>
+      <link rel="stylesheet" href="css/facebook-b1.css">
+      <link href="https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap" rel="stylesheet">
+    </head>
+    <body>
+      <header>
+        <div class="header">
+          <div class="login">
+            <div class="text">
+              <h1> facebook </h1>
+            </div>
+            <div class="text1">
+              <p class="input1">
+                Email hoặc điện thoại<br><input type="#" name="#">
+              </p>
+              <p class="input2">
+                Mật khẩu
+                <br><input type="#" name="#">
+                <br><a href="#">Quên tài khoản?</a>
+              </p>
+              <p class="input3">
+                <a href="#">
+                  <input type="submit" value=" Đăng nhập">
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </header>
+      <aside>
+        <div class="aside">
+          <div class="login1">
+            <h1>Facebook giúp bạn kết nối và chia sẻ với <br> mọi người trong cuộc sống của bạn.</h1>
+            <img src="image/facebook.png" alt="">
+            <div class="doctument">
+              <h1> Đăng Ký </h1>
+              <br><p class="p2"> Nhanh chóng và dễ dàng </p><br>
+              <input placeholder="Họ" >
+              <input placeholder="Tên" ><br><br><br>
+              <input placeholder="Số di động hoặc gmail"><br><br>
+              <input placeholder="Mật khẩu mới"><br><br>
+              <p> Ngày sinh</p><br>
+              <select class="select">
+                <option label="ngày"> Ngày</option>
+                <option label="1"> 1</option>
+                <option label="2">2</option>
+                <option label="3">3</option>
+                <option label="4">4</option>
+                <option label="5">5</option>
+                <option label="6">6</option>
+                <option label="7">7</option>
+                <option label="8">8</option>
+                <option label="9">9</option>
+                <option label="10">10</option>
+                <option label="11">11</option>
+                <option label="12">12</option>
+                <option label="13">13</option>
+                <option label="14">14</option>
+                <option label="15">15</option>
+                <option label="16">16</option>
+                <option label="17">17</option>
+                <option label="18">18</option>
+                <option label="19">19</option>
+                <option label="20">20</option>
+                <option label="21">21</option>
+                <option label="22">22</option>
+                <option label="23">23</option>
+                <option label="24">24</option>
+                <option label="25">25</option>
+                <option label="26">26</option>
+                <option label="27">27</option>
+                <option label="28">28</option>
+                <option label="29">29</option>
+                <option label="30">30</option>
+                <option label="31">31</option>
+              </select>
+              <select class="select1">
+                <option label="Tháng"> Ngày</option>
+                <option label="Tháng 1"> 1</option>
+                <option label="Tháng 2">2</option>
+                <option label="Tháng 3">3</option>
+                <option label="Tháng 4">4</option>
+                <option label="Tháng 5">5</option>
+                <option label="Tháng 6">6</option>
+                <option label="Tháng 7">7</option>
+                <option label="Tháng 8">8</option>
+                <option label="Tháng 9">9</option>
+                <option label="Tháng 10">10</option>
+                <option label="Tháng 11">11</option>
+                <option label="Tháng 12">12</option>
+              </select>
+              <select class="select2">
+                <option label="Năm">Năm</option>
+                <option label="2019">2019</option>
+                <option label="2018">2018</option>
+                <option label="2017">2017</option>
+                <option label="2016">2016</option>
+                <option label="2015">2015</option>
+                <option label="2014">2014</option>
+                <option label="2013">2013</option>
+                <option label="2012">2012</option>
+                <option label="2011">2011</option>
+                <option label="2010">2010</option>
+                <option label="2009">2009</option>
+                <option label="2008">2008</option>
+                <option label="2007">2007</option>
+                <option label="2006">2006</option>
+                <option label="2005">2005</option>
+                <option label="2004">2004</option>
+                <option label="2003">2003</option>
+                <option label="2002">2002</option>
+                <option label="2001">2001</option>
+                <option label="2000">2000</option>
+                <option label="1999">1999</option>
+                <option label="1998">1998</option>
+                <option label="1997">1997</option>
+                <option label="1996">1996</option>
+                <option label="1995">1995</option>
+                <option label="1994">1994</option>
+                <option label="1993">1993</option>
+                <option label="1992">1992</option>
+                <option label="1990">1991</option>
+                <option label="1989">1989</option>
+                <option label="1988">1988</option>
+                <option label="1987">1987</option>
+                <option label="1986">1986</option>
+                <option label="1985">1985</option>
+                <option label="1984">1984</option>
+              </select>
+              <button type="submit" class="button" title="nhấn chuột để biết thêm thông tin">
+              ?
+              </button>
+              <p> Giới tính </p><br>
+              <input class="six" type="radio" name="checkbox"> Nữ
+              <input class="six1" type="radio" name="checkbox"> Nam
+              <input class="six2" type="radio" name="checkbox"> Tùy chỉnh
+              <button type="submit" class="button" title="nhấn chuột để biết thêm thông tin">
+              ?
+              </button>
+              <br><br><p class="p6">
+                Bằng cách nhấp vào Đăng ký,bạn đồng ý với
+                <a href="#">Điều khoản,</a>
+                <a href="#">Chính sách dữ liệu </a>
+                và
+                <a href="#">Chính sách cookie</a>
+                của chúng tôi. Bạn có thể nhận được thông báo của chúng tôi qua SMS và hủy nhận bất kỳ lúc nào.
+              </p><br>
+              <input type="submit" value=" Đăng ký" class="thuc">
+              <br><br><p class="p7">
+                <a href="#">Tạo trang</a>
+                dành cho người nổi tiếng , nhãn hiệu hoặc doanh nghiệp.
+              </p>
+            </div>
+          </div>
+        </div>
+      </aside>
+      <footer>
+        <div class="footer">
+          <div class="footer1">
+            <div class="footer2">
+              Tiếng việt
+              <a href="#"> English(UK)</a>
+              <a href="#"> 中文(台灣)</a>
+              <a href="#"> 한국어 </a>
+              <a href="#"> 日本語 </a>
+              <a href="#"> Français (France) </a>
+              <a href="#"> ภาษาไทย </a>
+              <a href="#"> Español </a>
+              <a href="#"> Português (Brasil) </a>
+              <a href="#"> Deutsch </a>
+              <a href="#"> Italian </a>
+              <a href="#">
+                <input class="#" name="#" placeholder="+">
+              </a>
+            </div>
+            <div class="footer3">
+              <br><a href=""> Đăng ký </a>
+              <a href=""> Đăng nhập </a>
+              <a href=""> Messenger </a>
+              <a href="#"> Facebook Lite </a>
+              <a href="#"> Tìm bạn bè </a>
+              <a href="#"> Danh bạ </a>
+              <a href="#"> Trang cá nhân </a>
+              <a href="#"> Trang </a>
+              <a href="#"> Hạng mục </a>
+              <a href="#"> Trang </a>
+              <a href="#"> Địa điểm </a>
+              <a href="#"> Trò chơi </a>
+              <a href="#"> Vị trí </a>
+              <a href="#"> Marketplace </a>
+              <br><a href="#"> Nhóm </a>
+              <a href="#"> Instagram </a>
+              <a href="#"> Địa phương </a>
+              <a href="#"> Trang gây quỹ </a>
+              <a href="#"> Giới thiệu </a>
+              <a href="#"> Tạo quảng cáo </a>
+              <a href="#"> Tạo Trang </a>
+              <a href="#"> Nhà phát triển </a>
+              <a href="#"> Tuyển dụng </a>
+              <a href="#"> Quyền riêng tư </a>
+              <a href="#"> Cookie </a>
+              <br><a href="#"> Lựa chọn quảng cáo</a>
+              <a href="#"> Điều khoản </a>
+              <a href="#"> Bảo mật tài khoản </a>
+              <a href="#"> Trợ giúp đăng nhập </a>
+              <a href="#"> Trợ giúp </a>
+              Facebook © 2019
+            </div>
+          </div>
+        </div>
+      </footer>
+    </body>
+  </html>
